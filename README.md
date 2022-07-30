@@ -10,13 +10,13 @@
 
 </p>
 <p>
-import webbrowser as web
+# import webbrowser as web
 
 web.open('https://malikagan48.github.io/Portfolio/')
 
 
 
 </p>
-![](https://github.com/malikagan48/PythonPortfolio/blob/main/Images/16.PNG)  
+<img src="https://github.com/malikagan48/PythonPortfolio/blob/main/Images/16.PNG" width="auto">
 
 
