@@ -14,8 +14,9 @@ import webbrowser as web
 
 web.open('https://malikagan48.github.io/Portfolio/')
 
+
+
 </p>
-<p>
 ![](https://github.com/malikagan48/PythonPortfolio/blob/main/Images/16.PNG)  
-</p>
+
 
