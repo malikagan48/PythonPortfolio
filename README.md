@@ -1,6 +1,7 @@
 # PythonPortfolioExe
 <p>
-
+  
+# <a href="https://github.com/malikagan48/PythonPortfolio/blob/main/KaganKucukPortfolioExe.exe" target="_blank">You can download the exe file from here before explaining the processes I did.</a>
 # I created an exe file that goes to the portfolio url I created using the webbrowser module. When using the web browser module, I specified the url part with the open cursor.
   
 </p>
